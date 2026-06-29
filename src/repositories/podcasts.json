@@ -1,30 +1,301 @@
 [
     {
         "podcastName": "flow",
-        "episode": "CBUM - Flow #319",
-        "videoId": "pQSuQmUfS30",
+        "episode": "RONALDO FENÔMENO - Flow #700",
+        "videoId": "WqXhRjX_q44",
         "categories": [
-            "saúde",
             "esporte",
-            "bodybuilding"
+            "futebol",
+            "entretenimento"
         ]
     },
     {
         "podcastName": "flow",
-        "episode": "RUBENS BARRICHELLO - Flow #339",
-        "videoId": "4KDGTdi0V4I",
+        "episode": "MANO BROWN - Flow #317",
+        "videoId": "9vH_a0Z6qHw",
         "categories": [
-            "esporte",
-            "corrida"
+            "música",
+            "rap",
+            "cultura"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "GAULES - Flow #058",
+        "videoId": "aB2c3D4e5Fg",
+        "categories": [
+            "games",
+            "esports",
+            "streaming"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "SÉRGIO SACANI - Flow #239",
+        "videoId": "T8yU7iR4oE1",
+        "categories": [
+            "ciência",
+            "astronomia",
+            "tecnologia"
+        ]
+    },
+    {
+        "podcastName": "flow",
+        "episode": "IGOR GUIMARÃES - Flow #160",
+        "videoId": "XyZ1w2V3u4T",
+        "categories": [
+            "comédia",
+            "humor",
+            "stand-up"
         ]
     },
     {
         "podcastName": "podpah",
-        "episode": "Max Vertappen - Podpah #102",
-        "videoId": "4KDGTdi2V4I",
+        "episode": "CASIMIRO - Podpah #300",
+        "videoId": "Lp1Oq2W3e4R",
         "categories": [
             "esporte",
-            "corrida"
+            "futebol",
+            "humor",
+            "entretenimento"
+        ]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "TITE - Podpah #289",
+        "videoId": "M5n6B7v8C9x",
+        "categories": [
+            "esporte",
+            "futebol",
+            "seleção"
+        ]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "LUVA DE PEDREIRO - Podpah #135",
+        "videoId": "Z0x9C8v7B6n",
+        "categories": [
+            "internet",
+            "futebol",
+            "humor"
+        ]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "RACIONAIS MC'S - Podpah #350",
+        "videoId": "Q1w2E3r4T5y",
+        "categories": [
+            "música",
+            "rap",
+            "história"
+        ]
+    },
+    {
+        "podcastName": "podpah",
+        "episode": "WHINDERSSON NUNES - Podpah #200",
+        "videoId": "U6i7O8p9A0s",
+        "categories": [
+            "comédia",
+            "internet",
+            "boxe"
+        ]
+    },
+    {
+        "podcastName": "inteligencia_ltda",
+        "episode": "DR. LAIR RIBEIRO - Inteligência Ltda. #136",
+        "videoId": "D1f2G3h4J5k",
+        "categories": [
+            "saúde",
+            "medicina",
+            "nutrição"
+        ]
+    },
+    {
+        "podcastName": "inteligencia_ltda",
+        "episode": "AFONSO PADILHA - Inteligência Ltda. #150",
+        "videoId": "L6z7X8c9V0b",
+        "categories": [
+            "comédia",
+            "stand-up"
+        ]
+    },
+    {
+        "podcastName": "inteligencia_ltda",
+        "episode": "PAULO MUZY - Inteligência Ltda. #200",
+        "videoId": "N1m2Q3w4E5r",
+        "categories": [
+            "saúde",
+            "esporte",
+            "medicina"
+        ]
+    },
+    {
+        "podcastName": "inteligencia_ltda",
+        "episode": "ARTHUR PÊTRO - Inteligência Ltda. #220",
+        "videoId": "T6y7U8i9O0p",
+        "categories": [
+            "história",
+            "geopolítica"
+        ]
+    },
+    {
+        "podcastName": "inteligencia_ltda",
+        "episode": "DANIEL MASTES - Inteligência Ltda. #180",
+        "videoId": "A1s2D3f4G5h",
+        "categories": [
+            "ilusionismo",
+            "entretenimento",
+            "mágica"
+        ]
+    },
+    {
+        "podcastName": "ciencia_sem_fim",
+        "episode": "PIRULA - Ciência Sem Fim #05",
+        "videoId": "J6k7L8z9X0c",
+        "categories": [
+            "ciência",
+            "biologia",
+            "paleontologia"
+        ]
+    },
+    {
+        "podcastName": "ciencia_sem_fim",
+        "episode": "MIGUEL NICOLELIS - Ciência Sem Fim #20",
+        "videoId": "V1b2N3m4Q5w",
+        "categories": [
+            "neurociência",
+            "medicina",
+            "tecnologia"
+        ]
+    },
+    {
+        "podcastName": "ciencia_sem_fim",
+        "episode": "PEDRO LOOS (CIÊNCIA TODO DIA) - Ciência Sem Fim #12",
+        "videoId": "E6r7T8y9U0i",
+        "categories": [
+            "física",
+            "educação",
+            "ciência"
+        ]
+    },
+    {
+        "podcastName": "ciencia_sem_fim",
+        "episode": "LITO (AVIÕES E MÚSICAS) - Ciência Sem Fim #18",
+        "videoId": "O1p2A3s4D5f",
+        "categories": [
+            "aviação",
+            "engenharia",
+            "tecnologia"
+        ]
+    },
+    {
+        "podcastName": "ciencia_sem_fim",
+        "episode": "MARCELO GLEISER - Ciência Sem Fim #50",
+        "videoId": "G6h7J8k9L0z",
+        "categories": [
+            "astronomia",
+            "física",
+            "filosofia"
+        ]
+    },
+    {
+        "podcastName": "primocast",
+        "episode": "THIAGO NIGRO E BRUNO PERINI - PrimoCast #100",
+        "videoId": "X1c2V3b4N5m",
+        "categories": [
+            "finanças",
+            "investimentos",
+            "economia"
+        ]
+    },
+    {
+        "podcastName": "primocast",
+        "episode": "PABLO MARÇAL - PrimoCast #120",
+        "videoId": "Q6w7E8r9T0y",
+        "categories": [
+            "empreendedorismo",
+            "negócios",
+            "desenvolvimento pessoal"
+        ]
+    },
+    {
+        "podcastName": "primocast",
+        "episode": "JOEL JOTA - PrimoCast #50",
+        "videoId": "U1i2O3p4A5s",
+        "categories": [
+            "produtividade",
+            "alta performance",
+            "esporte"
+        ]
+    },
+    {
+        "podcastName": "primocast",
+        "episode": "FLÁVIO AUGUSTO - PrimoCast #150",
+        "videoId": "D6f7G8h9J0k",
+        "categories": [
+            "empreendedorismo",
+            "vendas",
+            "gestão"
+        ]
+    },
+    {
+        "podcastName": "primocast",
+        "episode": "NATHALIA ARCURI - PrimoCast #80",
+        "videoId": "L1z2X3c4V5b",
+        "categories": [
+            "finanças",
+            "educação financeira"
+        ]
+    },
+    {
+        "podcastName": "ironberg",
+        "episode": "RENATO CARIANI E JULIO BALESTRIN - Ironberg Podcast #50",
+        "videoId": "N6m7Q8w9E0r",
+        "categories": [
+            "bodybuilding",
+            "saúde",
+            "esporte",
+            "treino"
+        ]
+    },
+    {
+        "podcastName": "ironberg",
+        "episode": "RAMON DINO - Ironberg Podcast #120",
+        "videoId": "T1y2U3i4O5p",
+        "categories": [
+            "bodybuilding",
+            "esporte",
+            "competição"
+        ]
+    },
+    {
+        "podcastName": "ticaracaticast",
+        "episode": "BOLA E CARIOCA - Ticaracaticast #01",
+        "videoId": "A6s7D8f9G0h",
+        "categories": [
+            "comédia",
+            "rádio",
+            "entretenimento"
+        ]
+    },
+    {
+        "podcastName": "ticaracaticast",
+        "episode": "THIAGO VENTURA - Ticaracaticast #15",
+        "videoId": "J1k2L3z4X5c",
+        "categories": [
+            "comédia",
+            "stand-up",
+            "histórias"
+        ]
+    },
+    {
+        "podcastName": "venus",
+        "episode": "ANA BEATRIZ BARBOSA - Vênus Podcast #130",
+        "videoId": "V6b7N8m9Q0w",
+        "categories": [
+            "saúde mental",
+            "psiquiatria",
+            "comportamento"
         ]
     }
 ]
